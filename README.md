@@ -13,6 +13,9 @@ I'm Sophia :brain: Neuroscientist, researcher, and I build things to try create 
 - 👯 I’m looking to collaborate on **THE TURING WAY!!**
   - Join us on Slack, or browse the open issues [here](https://github.com/alan-turing-institute/the-turing-way)
   - If you're unsure where to start then reach out, or come to our next [collaboration cafe](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md)
+  
+- :speech_balloon: I'm also looking to chat about ethics, AI, and privacy technologies. 
+  - drop an email if you want to chat
 
 - 📫 Feel free to send me an [email](mailto:ssmbatchelor@gmail.com) or connect on [twitter](https://twitter.com/brainonsilicon)
 
