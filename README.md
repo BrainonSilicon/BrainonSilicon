@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Sophia. I'm a Neuroscientist, researcher, and builder of many things 🧠🎨
+I'm Sophia. I'm a Neuroscientist, researcher, and builder of many things. 
 
 - 🔭 I’m currently working on:
   - A PhD on memory, perception, and sensorimotor learning in Virtual Reality
