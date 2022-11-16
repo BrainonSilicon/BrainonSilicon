@@ -8,8 +8,8 @@ I'm Sophia. I'm a Neuroscientist, researcher, and builder of many things.
   - [The Turing Way's](https://github.com/alan-turing-institute/the-turing-way) guides for reproducible, ethical and collaborative data science. 
 
 - 🌱 I’m currently learning:
-  - Causal modeling for early stage interventions 
-  - Probabilistic modeling to assess how we learn
+  - Mixed effects modeling using using gaussian processes for managing an individual's differences across health records. 
+  - Pottery 🎨
 
 - 👯 I’m looking to collaborate on:
 	- An accessibility focused UX and Design System for the [AutSPACEs platform](https://github.com/alan-turing-institute/AutisticaCitizenScience). 
