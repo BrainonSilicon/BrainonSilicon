@@ -1,22 +1,31 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm Sophia. I'm a Neuroscientist, researcher, and builder of many things. 
 
-- 🔭 I’m currently working on:
-  - Citizen Science and Open Research frameworks with the [AI for Multiple Long-Term Conditions](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility)research programme
-  - A Co-created, [Citizen Science platform](https://github.com/alan-turing-institute/AutisticaCitizenScience) to better understand the relationship between sensory processing and autism.
-  - [The Turing Way's](https://github.com/alan-turing-institute/the-turing-way) guides for reproducible, ethical and collaborative data science. 
+I’m currently the **Data & Analytics Fellow** at Imperial College London’s [Institute of Global Health Innovation](https://www.imperial.ac.uk/global-health-innovation/), based in the [Centre for Health Policy](https://www.imperial.ac.uk/global-health-innovation/centre-for-health-policy/). Our work focuses on using data to understand complex health systems, identify inequities, and turn evidence into practical insights for policy and service improvement.
 
-- 🌱 I’m currently learning:
-  - Accessible UI design and android app development.
-  - Pottery 🎨
+### 🔭 My current projects:
+* Patient safety and health system performance
+* Digital mental health and service demand
+* Cancer screening, prevention, and behavioural based intervention evaluation 
+* Children, AI, and responsible technology
+* Health inequalities using publicaly avaliable data
 
-- 👯 I’m looking to collaborate on:
-	- An accessibility focused UX and Design System for the [AutSPACEs platform](https://github.com/alan-turing-institute/AutisticaCitizenScience). 
-	- Workshops and Tooling that increases the accessibility of Open Science.
-	- A [Glossary of Terms](https://github.com/aim-rsf/Glossary-of-Terms) for AI and Medical Science 
+### 🌱 I’m currently learning:
+* Pottery 🎨 (trying to design some new tableware with some different glazes) 
 
-- 💬 I'm always looking to chat about open science, ethics, AI, VR/AR, or how to make the world a safer, kinder, and more accessible place 🗺️
+### 🙌 I’m looking to collaborate on:
+* Workshops and Tooling that increases the accessibility and implementation of Open Science
+* Stakeholder roundtables on safe and responsible AI/LLM deployment
 
-- 📫 Send me an [email](mailto:ssmbatchelor@gmail.com) or [twitter DM](https://twitter.com/brainonsilicon) to get in touch. 
+### **↩️ Previously**
+* I’ve contributed to open science and participatory research projects including:
+* citizen science and open research frameworks for AI and health
+* accessible design and public involvement for autism research platforms
+* reproducible, ethical, and collaborative data science resources
+
+### Get in touch
+💬 I'm always looking to chat about open science, health data, AI and how to make the world a safer, kinder, and more accessible place 🗺️
+
+📫 [Email me](mailto:ssmbatchelor@gmail.com)
 
